@@ -24,6 +24,7 @@ body {
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  row-gap: 1.4rem;
   align-items: flex-start;
   margin: 1rem 0;
 }
